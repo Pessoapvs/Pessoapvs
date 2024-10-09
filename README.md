@@ -5,7 +5,3 @@
 📫 Como me encontrar: person.vieira@gmail.com
 😄 Pronomes: Nós...
 ⚡ Curiosidade: "No universo da segurança digital, onde a tecnologia evolui rapidamente, o ethical hacking (ou hacking ético) é uma prática proativa que visa combater ameaças cibernéticas."
-<!---
-Pessoapvs/Pessoapvs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
