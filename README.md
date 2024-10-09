@@ -6,6 +6,7 @@
 
 
 💞️ Estou buscando colaborar em projetos voltados para a área de Segurança da Informação.
+
 📫 Como me encontrar: person.vieira@gmail.com
 
 😄 Pronomes: Nós...
