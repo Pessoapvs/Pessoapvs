@@ -1,14 +1,43 @@
-👋 Oi, eu sou @Pessoapvs
+<h1 align="center">Olá, eu sou o Person Vieira 👋</h1>
 
-👀 Estou interessado em Segurança da Informação e novas tecnologias.
+<p align="center">
+  Estudante de <strong>Tecnologia da Informação</strong>, apaixonado por tecnologia, segurança da informação e hacking ético.  
+</p>
 
-🌱 Atualmente, estou aprendendo sobre VSCode, Criptografia e Redes de Computadores.
+---
 
+### 💻 Tecnologias que conheço e utilizo:
 
-💞️ Estou buscando colaborar em projetos voltados para a área de Segurança da Informação.
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Kali_Linux_2.0_wordmark.svg" width="80" alt="Kali Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+</p>
 
-📫 Como me encontrar: person.vieira@gmail.com
+---
 
-😄 Pronomes: Nós...
+### 🔗 Me conecte no LinkedIn:
+[![LinkedIn](https://img.shields.io/badge/-Person%20Vieira-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/person-vieira-a40486105/)
 
-⚡ Curiosidade: "No universo da segurança digital, onde a tecnologia evolui rapidamente, o ethical hacking (ou hacking ético) é uma prática proativa que visa combater ameaças cibernéticas."
+---
+
+### 🌱 Atualmente estou estudando:
+- Segurança da informação
+- Desenvolvimento Web
+- Ferramentas de hacking ético com Kali Linux
+
+---
+
+### ✨ Curiosidades:
+- Sou apaixonado por resolver problemas com tecnologia.
+- Tenho interesse em participar de projetos de código aberto voltados à cibersegurança.
+- Adoro aprender algo novo todos os dias!
+
+---
+
+<div align="center">
+  Obrigado por visitar meu perfil! 😄
+</div>
